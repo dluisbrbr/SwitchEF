@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SwitchDB": "Server=localhost;Database=SwitchDB;userid=root;password=sasasa"
+  }
+}
